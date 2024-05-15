@@ -1,1 +1,2 @@
 # skilaverkefni5
+myndband -> 
